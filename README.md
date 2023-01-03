@@ -1,0 +1,2 @@
+# SimpleChemStructTip
+SimpleChemStructTip
